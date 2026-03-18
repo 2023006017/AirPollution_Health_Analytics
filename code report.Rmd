@@ -1,0 +1,20 @@
+
+title: "Air Pollution Health Impact Analysis"
+output: html_document
+
+
+## Introduction
+
+Air pollution exposure is associated with adverse population health outcomes.
+
+## Methods
+
+A synthetic dataset of 1500 individuals was generated.
+
+## Results
+
+Logistic regression indicated higher hospitalization risk with increasing PM2.5.
+
+## Survival Analysis
+
+Kaplan-Meier curves showed reduced survival probability in high exposure groups.
